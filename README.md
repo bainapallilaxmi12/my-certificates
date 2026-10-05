@@ -1,3 +1,2 @@
-# My Certificates
-
-* [Computer Networks Essentials](https://github.com/user-attachments/files/32999895/Computer.networks.essentials.1.pdf)
+- [DBMS and SQL 1](DBMS%20and%20SQL%201.pdf)
+- [Computer Networks Essentials](Computer%20Networks%20Essentials.pdf)
