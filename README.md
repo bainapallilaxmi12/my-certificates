@@ -14,3 +14,5 @@ SSC MARKS MEMO
  INTERMEDIATE MARKS MEMO
 
 https://github.com/bainapallilaxmi12/my-certificates/blob/main/IMG_20261007_153002.jpg
+ACHIEVEMENTS 
+DBMS - https://github.com/bainapallilaxmi12/my-certificates/blob/main/DBMS%20and%20SQL%201.pdf
