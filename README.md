@@ -10,3 +10,7 @@ Academic Records
  
 SSC MARKS MEMO 
  https://github.com/bainapallilaxmi12/my-certificates/blob/main/IMG_20261007_152943.jpg
+
+ INTERMEDIATE MARKS MEMO
+
+https://github.com/bainapallilaxmi12/my-certificates/blob/main/IMG_20261007_153002.jpg
